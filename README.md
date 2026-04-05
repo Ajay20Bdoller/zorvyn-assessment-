@@ -57,17 +57,17 @@ Tailwind CSS
 Utility-first styling
 Rapid UI development
 
-### Design Focus
+## Design Focus
+-Clean and minimal UI
+-Readable typography
+-Consistent spacing
+-Smooth user experience
 
-Clean and minimal UI
-Readable typography
-Consistent spacing
-Smooth user experience
-Possible Improvements
-Add authentication (JWT / OAuth)
-Connect with real backend APIs
-Add more financial metrics
-Advanced filtering & analytics
-Dark mode support
+## Possible Improvements
+- Add authentication (JWT / OAuth)
+ Connect with real backend APIs
+- Add more financial metrics
+  - Advanced filtering & analytics
+-Dark mode support
 
 # Thank you!
