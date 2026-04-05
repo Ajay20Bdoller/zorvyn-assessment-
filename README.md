@@ -24,39 +24,32 @@ Global state management using Zustand
 Modular and reusable components
 
 ## Installation & Setup
-
 #### Clone the repository
-
 git clone <your-repo-url>
 cd zorvyn-assessment
 
 #### Install dependencies
-
 npm install
 
 ##### Run development server
-
 npm run dev
 
 ##### App will run at:
-
 http://localhost:5173
 
 ## Key Concepts Used
-
-Vite
+🔹 Vite
 Lightning-fast dev server
 Optimized build performance
-Zustand
+🔹 Zustand
 Lightweight state management
 No boilerplate (simpler than Redux)
-Recharts
+🔹 Recharts
 Declarative chart components
 Easy integration with React
-Tailwind CSS
+🔹 Tailwind CSS
 Utility-first styling
 Rapid UI development
-
 ## Design Focus
 -Clean and minimal UI
 -Readable typography
