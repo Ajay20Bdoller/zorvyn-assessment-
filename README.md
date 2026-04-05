@@ -37,15 +37,16 @@ http://localhost:5173
 . Vite
 Lightning-fast dev server
 Optimized build performance
-🔹 Zustand
+. Zustand
 Lightweight state management
 No boilerplate (simpler than Redux)
-🔹 Recharts
+. Recharts
 Declarative chart components
 Easy integration with React
-🔹 Tailwind CSS
+. Tailwind CSS
 Utility-first styling
 Rapid UI development
+
 ## Design Focus
 -Clean and minimal UI
 -Readable typography
