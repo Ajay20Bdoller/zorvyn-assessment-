@@ -23,23 +23,7 @@ Fully responsive layout
 Global state management using Zustand
 Modular and reusable components
 
-## Project Structure
-
-zorvyn-assessment/
-│── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Main dashboard pages
-│ ├── store/ # Zustand state management
-│ ├── utils/ # Helper functions
-│ ├── assets/ # Images / icons
-│ ├── App.tsx # Root component
-│ └── main.tsx # Entry point
-│
-│── public/ # Static files
-│── package.json
-│── vite.config.ts
-│── tailwind.config.js
-⚙️ Installation & Setup
+## Installation & Setup
 
 #### Clone the repository
 
