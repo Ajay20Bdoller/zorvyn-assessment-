@@ -27,18 +27,14 @@ Modular and reusable components
 #### Clone the repository
 git clone <your-repo-url>
 cd zorvyn-assessment
-
 #### Install dependencies
 npm install
-
 ##### Run development server
 npm run dev
-
 ##### App will run at:
 http://localhost:5173
-
 ## Key Concepts Used
-🔹 Vite
+. Vite
 Lightning-fast dev server
 Optimized build performance
 🔹 Zustand
